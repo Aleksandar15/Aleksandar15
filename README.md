@@ -1,4 +1,4 @@
-## The days of *empty contributions* are days where I solve *coding problems* and learn new *best practices* so I had nothing to commit. ✔
+## To briefly explain my days of *empty contributions*: are days where I solve *coding problems* and learn new *best practices* so I had nothing to commit. ✔
 When stumbled upon challenge, in short my days are filled with:
 
 1. Watching video/reading blog to improve my skills.
