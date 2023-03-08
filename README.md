@@ -7,6 +7,9 @@ When stumbled upon challenge, in short my days are filled with:
 4. Modifying my notes.
 5. Rinse and repeat step 3 & 4 for as long as it takes until "aha-moment". 👍
 6. Doing more challenges.
+7. Building project using my new skills.
+
+
 
 - 👋 Hi, I’m @Aleksandar15
 - 👀 I’m interested in programming
