@@ -9,7 +9,7 @@ When stumbled upon challenge, in short my days are filled with:
 6. Doing more challenges.
 7. Building project using my new skills.
 
-
+My <a href=https://github.com/Aleksandar15/GiT-reminds-commands>Git commands reminders</a>
 
 - 👋 Hi, I’m @Aleksandar15
 - 👀 I’m interested in programming
