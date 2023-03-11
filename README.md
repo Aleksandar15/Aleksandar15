@@ -3,7 +3,7 @@
 
 
 
-##### In my days of empty repository I like to learn new best practices, challenge myself, improve my skills, watch cars videos 🏎
+##### In my days of empty contributions I like to learn new best practices, challenge myself, improve my skills, watch cars videos 🏎
 ##### My <a href=https://github.com/Aleksandar15/GiT-reminds-commands>Git commands reminders</a> ✔
 
 - 👋 Hi, I’m @Aleksandar15
